@@ -43,7 +43,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Outros)  
    [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge)](https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge)
         
-        
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
         
         
         
