@@ -1,4 +1,9 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Hello+World!+✌🏻)
+> Em construção 
+
+ ## ![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Hello+World!+✌🏻)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=👽+About+me)
 
 <div align="center">
   <a href="https://github.com/thaisand">
@@ -7,7 +12,7 @@
 </div>
  
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Linguagens+de+Programação+prediletas)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=💻+Linguagens+de+Programação)
   <div style="display: inline_block" >
     <a href="https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library"><img align="center" alt="Cobol" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
     <a href="https://docs.oracle.com/en/java/"><img align="center" alt="Java" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png">
@@ -18,21 +23,17 @@
   </div>
   
     
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Tecnologias+e+Frameworks)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=🛠️+Ferramentas)
   <div>
       <a href="https://azure.microsoft.com/pt-br/products/devops/"><img align="center" alt="Azure" height="50"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png">
       <a href="https://www.atlassian.com/software/jira"><img align="center" alt="Jira" height="50"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
       <a href="https://powerbi.microsoft.com/pt-br/"><img align="center" alt="Jira" height="50"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_170953.png">  
-  </div>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Metodologias+Ágeis)](https://git.io/typing-svg)  
-  <div>
       <a href="https://www.scrum.org/"><img align="center" alt="Azure" height="50"  src="https://cdn-icons-png.flaticon.com/512/4821/4821780.png">
       <a href="https://www.atlassian.com/br/agile/kanban"><img align="center" alt="Azure" height="50"  src="https://cdn-icons-png.flaticon.com/512/5360/5360804.png">
   </div>    
   
   
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Redes+Sociais)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=🌐+Redes+Sociais)
   <div> 
   <a href="https://www.linkedin.com/in/thais-andreatta/"><img height="50" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" height="50"></a>
   <a href="mailto:thaisandreatta@gmail.com"><img height="50"src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"></a>
@@ -40,9 +41,11 @@
   <a href="https://instagram.com/thsndrtt"><img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>  
   </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Outros)  
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=Outros)  
    [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge)](https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge)
         
+        
+       
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
         
