@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Seja+bem+vindo+✌🏻)
+## ![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Hello+World!+✌🏻)
 
 <div align="center">
   <a href="https://github.com/thaisand">
