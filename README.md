@@ -1,15 +1,17 @@
 > Em construção 
 
- ## ![Typing SVG](https://readme-typing-svg.demolab.com/?color=D93A7C&background=1413218A&vCenter=true&repeat=true&width=435&lines=Hello+World!+✌🏻)
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=👽+About+me)
-
 <div align="center">
-  <a href="https://github.com/thaisand">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisand&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisand&layout=compact&langs_count=10&theme=radical"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=D93A7C&background=141321&center=true&vCenter=true&width=438&lines=Hello+World!+🌎" alt="Typing SVG" /></a>
+
+<p align="center">My name is Thais Andreatta. I'm a development enthusiast, passionate for using technology for problem-solving. </p>
+
 </div>
+
+<img src="https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=👽+About+me"/></a>
+
+
+
+
  
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=💻+Linguagens+de+Programação)
@@ -42,8 +44,15 @@
   </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=Outros)  
-   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge)](https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge)
-        
+
+       
+<div align="center">
+  <a href="https://github.com/thaisand">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisand&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisand&layout=compact&langs_count=10&theme=radical"/>
+</div>
+    
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge&background=1413218A&color=A8FBF4)](https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge)
         
        
 <!--START_SECTION:waka-->
