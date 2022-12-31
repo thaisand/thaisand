@@ -8,11 +8,9 @@
 </div>
 
 <img src="https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=👽+About+me"/></a>
-
-
-
-
- 
+- Currently working with COBOL, SQL and Power BI in [Banco Mercantil do Brasil](https://mercantildobrasil.com.br/Paginas/Home.aspx)
+- Learning Python and Flutter
+- From Belo Horizonte, Brasil
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=💻+Linguagens+de+Programação)
   <div style="display: inline_block" >
