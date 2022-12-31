@@ -1,7 +1,9 @@
 > Em construção 
 
-![image](https://user-images.githubusercontent.com/89612369/210124117-efe029f9-158e-4c96-bd62-81fb034c5fbe.png)
-
+<div align="center">
+ <img height="180em" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" /> 
+</div>
+<br>
 
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=D93A7C&background=141321&center=true&vCenter=true&width=438&lines=Hello+World!+🌎" alt="Typing SVG" />
@@ -9,6 +11,7 @@
 <p align="center">My name is Thais Andreatta. I'm a development enthusiast, passionate for using technology for problem-solving. </p>
 
 </div>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=👽+About+me"/></a>
 - Currently working with COBOL, SQL and Power BI in [Banco Mercantil do Brasil](https://mercantildobrasil.com.br/Paginas/Home.aspx)
@@ -26,7 +29,8 @@
     <a href="https://www.javascript.com/"><img align="center" alt="Javascript" height="50"  src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
     <a href="https://dev.mysql.com/doc/"><img align="center" alt="Sql" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
     <a href="https://flutter.dev/"><img align="center" alt="Flutter" height="50"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
- </div> 
+ </div>
+ <br>
     
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=🛠️+Tools)
   <div>
@@ -36,7 +40,7 @@
       <a href="https://www.scrum.org/"><img align="center" alt="Azure" height="50"  src="https://cdn-icons-png.flaticon.com/512/4821/4821780.png">
       <a href="https://www.atlassian.com/br/agile/kanban"><img align="center" alt="Azure" height="50"  src="https://cdn-icons-png.flaticon.com/512/5360/5360804.png">
   </div>    
-  
+  <br>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=🌐+Contact+Me)
   <div> 
@@ -45,7 +49,7 @@
   <a href="https://www.youtube.com/@thaisand/videos"><img height="50" src="https://cdn.icon-icons.com/icons2/122/PNG/512/youtube_socialnetwork_19998.png" ></a>
   <a href="https://instagram.com/thsndrtt"><img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>  
   </div>
-
+  <br>
        
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=1413218A&vCenter=true&repeat=true&width=435&lines=📌+More)       
 <div align="center">
