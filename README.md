@@ -1,4 +1,4 @@
-> Em construção 
+
 
 <div align="center">
  <img height="180em" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" /> 
@@ -53,15 +53,19 @@
   </div>
   <br>
        
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&vCenter=true&repeat=true&width=435&lines=📌+More)       
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&vCenter=true&repeat=true&width=435&lines=📌+More)   
+📈 Stats
 <div align="center">
   <a href="https://github.com/thaisand">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisand&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
-    
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge&background=1413218A&color=A8FBF4)](https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge)
-        
+ 
+💃🏻 Some song recomendations
+ 
+<a href="https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge"><img  src="https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge&background=1413218A&color=A8FBF4"></a>
+
+       
        
 
         
