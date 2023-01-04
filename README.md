@@ -6,7 +6,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=60C476&center=true&vCenter=true&width=438&lines=Hello+World!+🌎" alt="Typing SVG" />
 
-<p align="center">My name is Thais Andreatta. I'm a development enthusiast, passionate for using technology for problem-solving. </p>
+<p align="center">My name is Thais Andreatta. I'm a development enthusiast, passionate about using technology for problem-solving. </p>
 
 </div>
 <br>
