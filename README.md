@@ -1,5 +1,3 @@
-
-
 <div align="center">
  <img height="180em" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" /> 
 </div>
@@ -13,14 +11,14 @@
 </div>
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?color=A8FBF4&vCenter=true&repeat=true&width=435&lines=👽+About+me"/></a>
+<img src="https://readme-typing-svg.demolab.com/?color=A8FBF4&background=141321&vCenter=true&repeat=true&width=435&lines=👽+About+me"/></a>
 <ul>
 <li> Currently working with COBOL, SQL and Power BI in <a href="https://mercantildobrasil.com.br/Paginas/Home.aspx">Banco Mercantil do Brasil</a>
 <li> Learning Python and Flutter
 <li> From Belo Horizonte, Brasil
 </ul> 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&vCenter=true&repeat=true&width=435&lines=💻+Programming+Languages)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=141321&vCenter=true&repeat=true&width=435&lines=💻+Programming+Languages)
  <div style="display: inline_block" >
     <a href="https://www.ibm.com/support/pages/enterprise-cobol-zos-documentation-library"><img align="center" alt="Cobol" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
     <a href="https://docs.oracle.com/en/java/"><img align="center" alt="Java" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_src_logo_icon_170556.png">
@@ -34,7 +32,7 @@
  </div>
  <br>
     
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&vCenter=true&repeat=true&width=435&lines=🛠️+Tools)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=141321&vCenter=true&repeat=true&width=435&lines=🛠️+Tools)
   <div>
       <a href="https://azure.microsoft.com/pt-br/products/devops/"><img align="center" alt="Azure" height="50"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png">
       <a href="https://www.atlassian.com/software/jira"><img align="center" alt="Jira" height="50"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png">
@@ -44,7 +42,7 @@
   </div>    
   <br>
   
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&vCenter=true&repeat=true&width=435&lines=🌐+Contact+Me)
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=141321&vCenter=true&repeat=true&width=435&lines=🌐+Contact+Me)
   <div> 
   <a href="https://www.linkedin.com/in/thais-andreatta/"><img height="50" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" height="50"></a>
   <a href="mailto:thaisandreatta@gmail.com"><img height="50"src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"></a>
@@ -53,7 +51,7 @@
   </div>
   <br>
        
-![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&vCenter=true&repeat=true&width=435&lines=📌+More)   
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=A8FBF4&background=141321&vCenter=true&repeat=true&width=435&lines=📌+More)   
 📈 Stats
 <div align="center">
   <a href="https://github.com/thaisand">
@@ -62,9 +60,9 @@
 </div>
  
 💃🏻 Some song recomendations
- 
-<a href="https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge"><img  src="https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge&background=1413218A&color=A8FBF4"></a>
-
+<div align="center">
+ <a href="https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge"><img  src="https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge&background=1413218A&color=A8FBF4"></a>
+</div>
        
        
 
