@@ -42,6 +42,7 @@
   </div>    
   <br>
   
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=🌐+Contact+Me)
   <div> 
   <a href="https://www.linkedin.com/in/thais-andreatta/"><img height="50" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" height="50"></a>
