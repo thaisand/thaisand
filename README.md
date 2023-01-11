@@ -17,6 +17,7 @@
 <li> Learning Python and Flutter
 <li> From Belo Horizonte, Brasil
 </ul> 
+<br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=💻+Programming+Languages)
  <div style="display: inline_block" >
@@ -30,8 +31,10 @@
     <a href="https://dev.mysql.com/doc/"><img align="center" alt="Sql" height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png">
     <a href="https://flutter.dev/"><img align="center" alt="Flutter" height="50"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
  </div>
- <br>
-    
+<br>
+<br>
+<br>
+     
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=🛠️+Tools)
   <div>
       <a href="https://azure.microsoft.com/pt-br/products/devops/"><img align="center" alt="Azure" height="50"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png">
@@ -41,7 +44,7 @@
       <a href="https://www.atlassian.com/br/agile/kanban"><img align="center" alt="Azure" height="50"  src="https://cdn-icons-png.flaticon.com/512/5360/5360804.png">
   </div>    
   <br>
-  
+  <br>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=🌐+Contact+Me)
   <div> 
@@ -50,6 +53,7 @@
   <a href="https://www.youtube.com/@thaisand/videos"><img height="50" src="https://cdn.icon-icons.com/icons2/122/PNG/512/youtube_socialnetwork_19998.png" ></a>
   <a href="https://instagram.com/thsndrtt"><img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>  
   </div>
+  <br>
   <br>
        
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=📌+More)   
@@ -60,6 +64,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisand&layout=compact&langs_count=10&theme=dark"/>
 </div>
 <br>
+<br>
+ 
 💃🏻 Some song recomendations
  <div >
    <a href="https://open.spotify.com/user/j0hyp6je9xws2r2t30vg7t5ge"><img  src="https://spotify-recently-played-readme.vercel.app/api?user=j0hyp6je9xws2r2t30vg7t5ge&background=1413218A&color=A8FBF4"></a>
