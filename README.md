@@ -18,6 +18,7 @@
 <li> From Belo Horizonte, Brasil
 </ul> 
 <br>
+<br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=💻+Programming+Languages)
  <div style="display: inline_block" >
