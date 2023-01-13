@@ -44,7 +44,7 @@
       <a href="https://www.scrum.org/"><img align="center" alt="Azure" height="50"  src="https://cdn-icons-png.flaticon.com/512/4821/4821780.png">
       <a href="https://www.atlassian.com/br/agile/kanban"><img align="center" alt="Azure" height="50"  src="https://cdn-icons-png.flaticon.com/512/5360/5360804.png">
   </div>    
-  <br>
+  <br> 
   <br>
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=🌐+Contact+Me)
