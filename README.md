@@ -36,6 +36,7 @@
 <br>
 <br>
      
+     
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=🛠️+Tools)
   <div>
       <a href="https://azure.microsoft.com/pt-br/products/devops/"><img align="center" alt="Azure" height="50"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png">
