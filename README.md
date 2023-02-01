@@ -3,6 +3,7 @@
 </div>
 <br>
 
+
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=60C476&center=true&vCenter=true&width=438&lines=Hello+World!+🌎" alt="Typing SVG" />
 
