@@ -14,8 +14,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=👽+About+me"/></a>
 <ul>
-<li> Currently working with COBOL, SQL and Power BI in <a href="https://mercantildobrasil.com.br/Paginas/Home.aspx">Banco Mercantil do Brasil</a>
-<li> Learning Python and Flutter
+<li> Currently working with Cloud Consulting in <a href="https://www.softwareone.com/">Software One</a>
 <li> From Belo Horizonte, Brasil
 </ul> 
 <br>
