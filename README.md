@@ -50,9 +50,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=60C476&vCenter=true&repeat=true&width=435&lines=🌐+Contact+Me)
   <div> 
   <a href="https://www.linkedin.com/in/thais-andreatta/"><img height="50" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" height="50"></a>
-  <a href="mailto:thaisandreatta@gmail.com"><img height="50"src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"></a>
+ <!--   <a href="mailto:thaisandreatta@gmail.com"><img height="50"src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"></a>
   <a href="https://www.youtube.com/@thaisand/videos"><img height="50" src="https://cdn.icon-icons.com/icons2/122/PNG/512/youtube_socialnetwork_19998.png" ></a>
-  <a href="https://instagram.com/thsndrtt"><img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>  
+  <a href="https://instagram.com/thsndrtt"><img height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" ></a>  -->
   </div>
   <br>
   <br>
